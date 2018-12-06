@@ -10,7 +10,7 @@ Please answer each of the below questions to the best of your ability and submit
 
 
 
-* Project description (please describe the purpose and function of the project, its origin and its significance to the ecyosystem):
+* Project description (please describe the purpose and function of the project, its origin and its significance to the ecosystem):
 
 
 
@@ -22,7 +22,7 @@ Please answer each of the below questions to the best of your ability and submit
 
 
 
-* What tool or platform is utlized for source control (GitHub, etc.) and what is the location (e.g. URL)?
+* What tool or platform is utilized for source control (GitHub, etc.) and what is the location (e.g. URL)?
 
 
 
